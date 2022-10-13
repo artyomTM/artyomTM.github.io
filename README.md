@@ -24,6 +24,8 @@
   - Найти склад
   - Посчитать себестоимость
   - Определиться со сбытом
+ ---
+ ---
  ## Формат выпуска.
     Линейки будут продаваться в наборами. В каждом наборе будут линейки по 10, 15, 20 и 50 сантиметров. Мы предлагаем поставлять линейки напрямую школам/университетам и производствам, чтобы экономить время и деньги людей.
 ---
@@ -51,9 +53,6 @@
  ---
  ---
  ## Ссылки
-- [Материалы][1]
-- [Склад][2]
-- [Станки][3]
-[1]:https://tomsk.pulscen.ru/products/shkant_kvadratny_20kh20mm_dlina_250mm_188938002?_gl=1*arz90i*_ga*SjVxbnN2MlgzQlZIZmJTOWhYblJpMjF5YjIxeFVlUW5rVHI3Uzh4aG5nWU9GZjNrcjNHaHM0Z1RMTkhZb2h4NQ
-[2]:https://www.avito.ru/tomsk/kommercheskaya_nedvizhimost/sklad_404_m_2334512950?utm_campaign=native&utm_medium=item_page_android&utm_source=soc_sharing
-[3]:https://www.stanki.ru/catalog/frezernye_stanki_i_centry_s_chpu/
+- [Материалы](https://tomsk.pulscen.ru/products/shkant_kvadratny_20kh20mm_dlina_250mm_188938002?_gl=1*arz90i*_ga*SjVxbnN2MlgzQlZIZmJTOWhYblJpMjF5YjIxeFVlUW5rVHI3Uzh4aG5nWU9GZjNrcjNHaHM0Z1RMTkhZb2h4NQ)
+- [Склад](https://www.avito.ru/tomsk/kommercheskaya_nedvizhimost/sklad_404_m_2334512950?utm_campaign=native&utm_medium=item_page_android&utm_source=soc_sharing)
+- [Станки](https://www.stanki.ru/catalog/frezernye_stanki_i_centry_s_chpu/)
